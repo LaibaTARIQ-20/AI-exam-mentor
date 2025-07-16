@@ -1,8 +1,9 @@
 {
   "name": "ai-exam-mentor",
   "version": "1.0.0",
-  "description": "STUDY MENTOR AND TEACHES AND GUIDES HOW TO PREREPARE AND HELLP IN GENERATING QUIZES FOR EXAMS",
+  "description": "STUDY MENTOR AND TEACHES AND GUIDES HOW TO PREPARE AND HELP IN GENERATING QUIZZES FOR EXAMS",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
