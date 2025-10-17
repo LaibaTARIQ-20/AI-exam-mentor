@@ -1,0 +1,21 @@
+{
+  "name": "ai-exam-mentor",
+  "version": "1.0.0",
+  "description": "STUDY MENTOR AND TEACHES AND GUIDES HOW TO PREPARE AND HELP IN GENERATING QUIZZES FOR EXAMS",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaibaTARIQ-20/AI-exam-mentor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaibaTARIQ-20/AI-exam-mentor/issues"
+  },
+  "homepage": "https://github.com/LaibaTARIQ-20/AI-exam-mentor#readme"
+}
